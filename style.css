@@ -6,9 +6,9 @@ h1 {
 }
 
 p {
-    font-family: Georgia; Serif;
+    font-family: Georgia, Serif;
     font-size: 18px;
-    color: #134436
+    color: #134436;
 }
 
 /* color */
